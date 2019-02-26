@@ -11,8 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d13363b0-b321-482f-bfc9-55ba603db85c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/edu/up/cs301/pig/PigGameState.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/edu/up/cs301/pig/PigGameState.java" afterPath="$PROJECT_DIR$/app/src/main/java/edu/up/cs301/pig/PigGameState.java" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/classes/" />
@@ -78,8 +78,8 @@
       <file leaf-file-name="PigGameState.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/up/cs301/pig/PigGameState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+            <state relative-caret-position="510">
+              <caret line="48" column="50" lean-forward="false" selection-start-line="48" selection-start-column="50" selection-end-line="48" selection-end-column="50" />
               <folding>
                 <element signature="e#689#690#0" expanded="true" />
                 <element signature="e#720#721#0" expanded="true" />
@@ -89,14 +89,12 @@
                 <element signature="e#850#851#0" expanded="true" />
                 <element signature="e#895#896#0" expanded="true" />
                 <element signature="e#935#936#0" expanded="true" />
-                <element signature="e#973#974#0" expanded="true" />
-                <element signature="e#1008#1009#0" expanded="true" />
-                <element signature="e#1063#1064#0" expanded="true" />
-                <element signature="e#1111#1112#0" expanded="true" />
-                <element signature="e#1158#1159#0" expanded="true" />
-                <element signature="e#1200#1201#0" expanded="true" />
-                <element signature="e#1245#1246#0" expanded="true" />
-                <element signature="e#1285#1286#0" expanded="true" />
+                <element signature="e#982#983#0" expanded="true" />
+                <element signature="e#1027#1028#0" expanded="true" />
+                <element signature="e#1196#1197#0" expanded="true" />
+                <element signature="e#1238#1239#0" expanded="true" />
+                <element signature="e#1283#1284#0" expanded="true" />
+                <element signature="e#1323#1324#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -2382,7 +2380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1551151092336</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="implemented PigGameState">
+      <created>1551151895157</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551151895157</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2426,7 +2431,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update to newer version of android studio and associated build tools" />
     <MESSAGE value="initial commit for me" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit for me" />
+    <MESSAGE value="implemented PigGameState" />
+    <option name="LAST_COMMIT_MESSAGE" value="implemented PigGameState" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -2486,8 +2492,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/up/cs301/pig/PigGameState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        <state relative-caret-position="510">
+          <caret line="48" column="50" lean-forward="false" selection-start-line="48" selection-start-column="50" selection-end-line="48" selection-end-column="50" />
           <folding>
             <element signature="e#689#690#0" expanded="true" />
             <element signature="e#720#721#0" expanded="true" />
@@ -2497,14 +2503,12 @@
             <element signature="e#850#851#0" expanded="true" />
             <element signature="e#895#896#0" expanded="true" />
             <element signature="e#935#936#0" expanded="true" />
-            <element signature="e#973#974#0" expanded="true" />
-            <element signature="e#1008#1009#0" expanded="true" />
-            <element signature="e#1063#1064#0" expanded="true" />
-            <element signature="e#1111#1112#0" expanded="true" />
-            <element signature="e#1158#1159#0" expanded="true" />
-            <element signature="e#1200#1201#0" expanded="true" />
-            <element signature="e#1245#1246#0" expanded="true" />
-            <element signature="e#1285#1286#0" expanded="true" />
+            <element signature="e#982#983#0" expanded="true" />
+            <element signature="e#1027#1028#0" expanded="true" />
+            <element signature="e#1196#1197#0" expanded="true" />
+            <element signature="e#1238#1239#0" expanded="true" />
+            <element signature="e#1283#1284#0" expanded="true" />
+            <element signature="e#1323#1324#0" expanded="true" />
           </folding>
         </state>
       </provider>

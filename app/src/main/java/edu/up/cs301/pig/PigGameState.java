@@ -41,12 +41,12 @@ public class PigGameState extends GameState {
         this.playerId = playerId;
     }
 
-    public int[] getPlayerScores() {
-        return playerScores;
+    public int getPlayerScore(int playerId) {
+        return playerScores[playerId];
     }
 
-    public void setPlayerScores(int[] playerScores) {
-        this.playerScores = playerScores;
+    public void setPlayerScores(int playerScore, int playerId){
+        this.playerScores[playerId] = playerScore;
     }
 
     public void setHoldTotal(int holdTotal) {
